@@ -283,7 +283,7 @@ mysqli_close($conn);
     <div class="header-container">
         <div class="header">
             <ul class="nav">
-                <li><a href="./Index.php">Inicio</a></li>
+                <li><a href="./Index.html">Inicio</a></li>
                 <li><a class="nav-analisis" href="">Analisis</a>
                     <ul>
                         <li><a href="./Analisis2.php">Analisis 1</a></li>
